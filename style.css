@@ -1,0 +1,9 @@
+.nav-nav{
+
+    font-size: 26px;
+    padding-right: 8rem;
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
